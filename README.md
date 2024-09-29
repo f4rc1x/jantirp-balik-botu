@@ -7,8 +7,9 @@ MTA:SA Janti Roleplay serverinde balıkçılıkta yorulmanıza gerek yok botu a�
 ## Nasıl Kullanılır?
 
 1. **Oyun Modunu Ayarla**: Oyununuzu pencere moduna alın.
-2. **Botu Açın**: `balikbot.exe` dosyasını açın.
-3. **Talimatları Takip Edin**: Uygulama içinde yazan talimatları takip edin. (Yapamazsanız Video İzleyin)
+2. **Botu İndirin**: [DOWNLOAD](https://github.com/f4rc1x/jantirp-balik-botu/blob/main/balikbotu.rar)
+3. **Botu Açın**: `balikbot.exe` dosyasını açın.
+4. **Talimatları Takip Edin**: Uygulama içinde yazan talimatları takip edin. (Yapamazsanız Video İzleyin)
 
 Daha detaylı bir kullanım için lütfen [bu videoyu izleyin](https://youtu.be/aEoLGwMcB3w).
 
