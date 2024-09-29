@@ -11,10 +11,7 @@ MTA:SA Janti Roleplay serverinde balıkçılıkta yorulmanıza gerek yok botu a�
 3. **Botu Açın**: `balikbot.exe` dosyasını açın.
 4. **Talimatları Takip Edin**: Uygulama içinde yazan talimatları takip edin. (Yapamazsanız Video İzleyin)
 
-Daha detaylı bir kullanım için lütfen aşağıdaki videoyu izleyin:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEoLGwMcB3w?si=NocqlVIGVDgMECqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Daha detaylı bir kullanım için lütfen [bu videoyu izleyin](https://youtu.be/aEoLGwMcB3w).
 
 ## Destek ve İletişim
 
